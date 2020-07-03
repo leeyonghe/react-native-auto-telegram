@@ -1,0 +1,6 @@
+module Pods_react_native_auto_telegram {
+  umbrella header "Pods-react_native_auto_telegram-umbrella.h"
+
+  export *
+  module * { export * }
+}

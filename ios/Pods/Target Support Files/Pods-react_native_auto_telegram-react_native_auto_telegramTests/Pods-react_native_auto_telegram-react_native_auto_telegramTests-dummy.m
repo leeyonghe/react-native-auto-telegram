@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_react_native_auto_telegram_react_native_auto_telegramTests : NSObject
+@end
+@implementation PodsDummy_Pods_react_native_auto_telegram_react_native_auto_telegramTests
+@end
